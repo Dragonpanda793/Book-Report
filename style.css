@@ -32,6 +32,10 @@ section {
     min-height: 120vh;
     padding: 0 25vw;
 }
+.section-1 {
+    justify-content: space-evenly;
+    min-height: 160vh;
+}
 
 .spacer {
     aspect-ratio: 900/600;
