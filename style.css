@@ -63,7 +63,7 @@ section {
 
 .section-2{
     color: #111;
-    min-height: 140vh;
+    min-height: 160vh;
     justify-content:space-evenly;
 }
 
@@ -89,7 +89,7 @@ section {
 }
 
 .section-3 {
-    min-height: 120vh;
+    min-height: 160vh;
     justify-content: space-evenly;
 }
 
@@ -170,7 +170,7 @@ section {
 }
 
 .section-4 {
-    min-height: 120vh;
+    min-height: 160vh;
     justify-content: space-evenly;
 }
 
